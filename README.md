@@ -1,4 +1,20 @@
 # Developer Landing Page project 9
+This is the 9th project 
+
+
+##3 responsive at screen size 1294 to 2560
+
+ 
+
+# Here is the sample given
+![given sample](./thumbnail.png)
+![given sample](./9.png)
+
+# here is the result 
+![result](./Screenshot%202023-01-01%20at%203.19.04%20pm.png)
+![result](./Screenshot%202023-01-01%20at%203.31.16%20pm.png)
+![given sample](./Screenshot%202023-01-01%20at%203.31.31%20pm.png)
+![given sample](./Screenshot%202023-01-01%20at%203.31.36%20pm.png)
 
 ## learning 
 when we used **float** property, we have to use **clear** property to clear effect of floating on the oter element 
