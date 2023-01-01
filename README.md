@@ -2,7 +2,7 @@
 This is the 9th project 
 
 
-##3 responsive at screen size 1294 to 2560
+## responsive at screen size 1294 to 2560
 
  
 
