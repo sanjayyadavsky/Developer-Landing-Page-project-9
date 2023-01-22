@@ -4,6 +4,7 @@ This is the 9th project
 
 ## responsive at screen size 1294 to 2560
 
+now this page is fully responsive 
  
 
 # Here is the sample given
@@ -16,6 +17,11 @@ This is the 9th project
 ![given sample](./Screenshot%202023-01-01%20at%203.31.31%20pm.png)
 ![given sample](./Screenshot%202023-01-01%20at%203.31.36%20pm.png)
 
+
+# Mobile responsive sample
+![mobile responsive sample](./Screenshot%202023-01-23%20at%2012.30.38%20am.png)
+# Tablet responsive sample
+![tablet responsive sample](./Screenshot%202023-01-23%20at%2012.32.22%20am.png)
 ## learning 
 when we used **float** property, we have to use **clear** property to clear effect of floating on the oter element 
 
@@ -110,3 +116,4 @@ css for it
   opacity: 0.5; /* Firefox */
 }
 ```
+# To view this page online click [here](https://sanjayyadavsky.github.io/Developer-Landing-Page-project-9/)

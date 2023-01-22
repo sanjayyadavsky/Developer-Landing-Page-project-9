@@ -269,3 +269,6 @@ header{
   display: flex;
   clear: both;
 }
+.nav-icon{
+  display: none;
+}

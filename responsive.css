@@ -1,0 +1,127 @@
+@media screen and (max-width:1294px) {
+    .header-image{
+        display: none;
+    }
+    header{
+        background-image: url(./images/IMAGE\ HERE.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-color: #4517fe00;
+    }
+    .header-text >h2 {
+        color: #a58eff;
+    }
+    .header-text > p {
+        color: #a58eff;
+
+    }
+    .companies {
+        text-align: center;
+    }
+}
+@media screen and (max-width:1187px) {
+    .blog-cards {
+        flex-direction: column;
+    }
+    .blog-card {
+        margin: 0 auto 50px;
+    }
+    .blog-card {
+        width: 75%;
+    }
+    .to-break{
+        display: contents;
+    }
+    .blog-heading>h1{
+        text-align: center;
+    }
+}
+@media screen and (max-width:905px) {
+    .faq-section {
+        flex-direction: column-reverse;
+    }
+    .faq-image {
+      height: auto;
+    }
+    .faq-image > img {
+        height: auto;
+        width: -webkit-fill-available;
+    }
+    .cards {
+      flex-direction: column;
+    }
+    .blog-card {
+        flex-direction: column;
+    }
+    .download-section {
+        flex-direction: column;
+    }
+    .footer-section {
+        flex-direction: column;
+    }
+    .list {
+        flex-direction: column;
+    }
+    .logos-list {
+        flex-direction: column;
+    }
+    .footer-right {
+            float: right;
+            display: flex;
+            flex-direction: column-reverse;
+            margin-left: 36px;
+    }
+    .footer-right>div{
+        display: flex;
+        flex-direction: row;
+
+    }
+    .footer-logos{
+        width: fit-content;
+        padding: 10px;
+    }
+    .download-email > form > input {
+        width:50%;
+        padding: 15px;
+        margin-left: 0px;
+    }
+    .download-content > h1 {
+        margin-bottom: 20px;
+    }
+    .blog-heading>h1 {
+        width: 85%;
+        text-align: center;
+    }
+    .card {
+        width: 90%;
+    }
+    .card-active {
+        width: 90%;
+    }
+    .api{
+        margin: 10px;
+    }
+    nav{
+        display: none;
+    }
+    .nav-icon{
+            margin:30px;
+            display: block;
+            float: right;
+            color: #fff;
+            font-size: 30px;
+    }
+    .fa-bars{
+        color: #fff;
+    }
+    .header-text >h2 {
+        font-size: 26px;
+    }
+    .header-text {
+        margin-top: 100px;
+        color: #f9f8ff;
+        background-color: #0000ff42;
+        margin: 69px 3px;
+    }
+}
